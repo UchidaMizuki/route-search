@@ -1,0 +1,59 @@
+{
+  "LAYERS": [
+    {
+      "geomType": 2,
+      "layerId": "sample_826bbfbd_6660_4fd1_9cf9_bafa48dc1bcf",
+      "name": "sample",
+      "properties": {
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Visible": true,
+        "comboBox_Label": null,
+        "comboBox_ObjectType": "Wall",
+        "comboBox_altitudeMode": null,
+        "fieldExpressionWidget_altitude": "0",
+        "labelHeightWidget": {},
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "styleWidget0": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "styleWidget1": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "styleWidget2": {
+          "comboData": null,
+          "comboText": "Expression",
+          "editText": "\"fid\"",
+          "type": 1
+        },
+        "styleWidget3": {},
+        "styleWidget4": {},
+        "styleWidget5": {}
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "FLAT",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "SCENE": {
+    "checkBox_autoZShift": false,
+    "colorButton_Color": "0x404040",
+    "comboBox_MaterialType": 0,
+    "lineEdit_BaseSize": "100",
+    "lineEdit_zFactor": "1.0",
+    "lineEdit_zShift": "0",
+    "radioButton_Color": true
+  }
+}
